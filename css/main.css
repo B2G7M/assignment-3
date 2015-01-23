@@ -7,7 +7,7 @@ html {
 }
 h1, h2, h3{
 	font-family: 'lobster', cuesive;
-	color: black;
+	color: grey;
 }
 a{
 	color: red;
@@ -16,3 +16,11 @@ a{
 a:hover{
 	color: orange;
 }
+b{
+	color: grey;
+}
+em{
+	color: grey;
+}
+
+.defined-class
